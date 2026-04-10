@@ -1,4 +1,4 @@
-# MONA
+# M.O.N.A
 
 M.O.N.A (Make Old New Again) is a student-led initiative that reframes electronic waste as accessible infrastructure for hands-on learning.
 
