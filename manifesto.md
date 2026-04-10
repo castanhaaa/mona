@@ -1,4 +1,4 @@
-#M.O.N.A MANIFESTO
+# M.O.N.A MANIFESTO
 
 We believe nothing is useless.
 
