@@ -1,13 +1,11 @@
 # M.O.N.A
 
-M.O.N.A (Make Old New Again) is a student-driven campaign that aims to refute the belief that electronic devices will inevitably become e-waste.
+M.O.N.A. operates on the premise that no item has no value; it only might need to be better understood for it to become useful.
 
-This campaign is driven by the simple principle that nothing is truly useless; its potential is simply not yet understood. Things that people label as obsolete and unnecessary are actually just opportunities for investigation.
+Things regarded as old or obsolete are considered opportunities to learn by M.O.N.A.
 
-M.O.N.A sees electronic devices that people no longer use as a means of acquiring knowledge through practice. 
+Functional equipment will not be thrown away; they will be transformed into tangible ways of teaching.
 
-Instead of throwing such devices away, the campaign calls upon people to recycle them and explore their possibilities.
+M.O.N.A. shifts the focus from a consumerist way of using technology to developing technology by showing that you can learn how to use technology without needing the latest technology, just by being curious enough to learn about what you have already used.
 
-This approach allows for transforming the attitude from consuming to learning, proving that you do not need to buy new or expensive stuff to learn about modern technology. 
-
-In fact, all one needs is access to available devices and a willingness to learn about them.
+We see a laboratory where others see trash.
